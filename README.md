@@ -1,1 +1,1 @@
-# git-branch-conflict-demo
+# Git Collaboration Practice
